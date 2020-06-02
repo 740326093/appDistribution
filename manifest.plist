@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://github.com/740326093/appDistribution/raw/master/Icon_01.png</string>
+					<string>https://raw.githubusercontent.com/740326093/appDistribution/master/Icon_01.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://github.com/740326093/appDistribution/raw/master/icon_02.png</string>
+					<string>https://raw.githubusercontent.com/740326093/appDistribution/master/Icon_02.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>com.58cm.YCF</string>
 				<key>bundle-version</key>
-				<string>1.9.8</string>
+				<string>1.9.9</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
